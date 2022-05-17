@@ -1,0 +1,107 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.logo{
+	width: 32px;
+	height: 48px;
+	position: relative;
+	left: 44px;
+}
+.textarea{
+	position: relative;
+	left: 50px;
+	top: 40px;
+	font-family: "Inter";
+	font-style:normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 150%;
+	width: 30%;
+	height: 50%;
+	
+}
+.todo{
+	display:flex;
+justify-content: space-around;
+	
+}
+.texto1{
+	font-size:24px;
+	font-weight: 700;
+	font-style: normal;
+	font-family: "Inter";
+	line-height: 120%;
+	text-align: center;
+	margin-top: 20px;
+
+}
+.muñeco{
+	position: relative;
+	width: 280px;
+	height: 580px;
+	top:-15px;
+	padding-top: 50px;
+	background: grey;
+	border-radius: 15px;
+}
+.muñe{
+	width:280px;
+	height:230px;
+
+}
+.texto2{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.signo{
+position: absolute;
+left: 300px;
+
+}
+.textosigno{
+margin-left: 320px;
+margin-bottom: 20px;
+}
+.bot1{
+border-radius: 20px;
+width: 250px;
+height: 50px;
+}
+.bot2{
+	margin-left: 20px;
+border-radius: 20px;
+width: 250px;
+height: 50px;
+background: grey;
+}
+
+.botones{
+	margin-left:200px;
+}
+
+.text{
+	 width: 100%;
+	border: none;
+	outline: none;
+}
+.textMuñe{
+	margin-left: 10%;
+	border: none;
+	width: 80%;
+	height: 30%;
+	outline: none;
+}
+.copiar{
+	width: 200px;
+	margin-left: 40px;
+	padding:5px;
+	border-radius: 10px;
+	display: none;
+
+}
+.botoness{
+	margin-top:-30px;
+}
